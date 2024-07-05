@@ -214,7 +214,8 @@
         "Tell me about your services",
         "Share with me your services",
         "Can you elaborate to me about your services?",
-        "What are the services that you can provide?"
+        "What are the services that you can provide?",
+        "Do you create websites?"
       ],
       "responses": [
         "Nexxus Lab specializes in creating landing pages, static and dynamic websites, and mobile applications. We also offer SEO expertise and AI-powered digital marketing services."
@@ -287,7 +288,9 @@
         "What is the first step to start working with Nexxus Lab?",
         "How does Nexxus Lab approach new project setups?",
         "How do I get started on a new project with your team?",
-        "How can I initiate a project with your company?"
+        "How can I initiate a project with your company?",
+        "Can you help me create a website?",
+        "Can you help me create one?"
       ],
       "responses": [
         "To start a project, you can contact us through our email at team@nexxuslab.com. We will discuss your requirements, provide a quote, and outline the next steps for your project."
@@ -587,7 +590,8 @@
         "Do you provide a paid-internship?",
         "Do I have to sign an NDA form?",
         "Do I have to sign a Non-Disclosure Agreement?",
-        "How do I apply for an OJT?"
+        "How do I apply for an OJT?",
+        "What are the requirements?"
       ],
       "responses": [
         "Nexxus Labs requires aspiring interns to submit their CV and endorsement letter from their university. Keep in mind that this is a non-paid internship and we will require you to sign a Non-Disclosure Agreement when you're accepted."
@@ -668,7 +672,7 @@
         "Heil Hitler"
       ],
       "responses": [
-        "I understand that you might be frustrated, but we do not tolerate aggressive or abusive behavior. Please communicate respectfully. If this behavior continues, we will no longer entertain any more questions. Thank you for your understanding."
+        "I hope you understand, but we do not tolerate aggressive or inappropriate behavior. Please communicate respectfully. If this behavior continues, we will no longer entertain any more questions. Thank you for your understanding."
       ]
     },
     {
@@ -700,8 +704,7 @@
         "Uhm",
         "Me?",
         "What is?",
-        "AI?",
-        "What are the requirements?"
+        "AI?"
       ],
       "responses": [
         "I'm sorry, but can you please elaborate on that?"
@@ -716,13 +719,14 @@
         "Are you boy?",
         "Are you gay?",
         "Support Pride?",
-        "This is so cool!"
+        "This is so cool!",
+        "That's so cool!",
+        "Are you flirting with me?"
       ],
       "responses": [
         "I'm sorry, but I don't have information about that. I'm an AI assistant focused on Nexxus Lab's services. Is there anything specific about our services, quoting process, project initiation, or SEO offerings that I can help you with?"
       ]
     }
-
   ]
 }
 
