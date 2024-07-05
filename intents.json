@@ -215,7 +215,8 @@
         "Share with me your services",
         "Can you elaborate to me about your services?",
         "What are the services that you can provide?",
-        "Do you create websites?"
+        "Do you create websites?",
+        "I would like to avail your services."
       ],
       "responses": [
         "Nexxus Lab specializes in creating landing pages, static and dynamic websites, and mobile applications. We also offer SEO expertise and AI-powered digital marketing services."
