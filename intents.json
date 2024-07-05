@@ -76,7 +76,7 @@
         "I need help with this.",
         "Can someone help me?",
         "I require your assistance.",
-        "I’d appreciate your help.",
+        "I'd appreciate your help.",
         "Can you provide some help?",
         "I need a little help with something.",
         "Could you help me figure this out?",
@@ -213,7 +213,8 @@
         "Could you please tell me about your services?",
         "Tell me about your services",
         "Share with me your services",
-        "Can you elaborate to me about your services?"
+        "Can you elaborate to me about your services?",
+        "What are the services that you can provide?"
       ],
       "responses": [
         "Nexxus Lab specializes in creating landing pages, static and dynamic websites, and mobile applications. We also offer SEO expertise and AI-powered digital marketing services."
@@ -470,7 +471,7 @@
         "What business sectors do you focus on?",
         "Can you provide a list of industries Nexxus Lab serves?",
         "What fields do you primarily operate in?",
-        "Are there any industries you don’t work with?",
+        "Are there any industries you don't work with?",
         "What sectors do you have the most projects in?",
         "In which fields does Nexxus Lab excel?",
         "What are your primary markets?",
@@ -534,7 +535,8 @@
         "Do you take in students for an internship?",
         "I'm looking for an internship opportunity.",
         "Do you have an OJT program?",
-        "Could you elaborate on the details of your internship?"
+        "Could you elaborate on the details of your internship?",
+        "How can I get the internship"
       ],
       "responses": [
         "Yes, Nexxus Lab offers internships, kindly send us an email to team@nexxuslab.com with your CV and endorsement letter from your school if you are interested."
@@ -713,7 +715,8 @@
         "Are you a girl?",
         "Are you boy?",
         "Are you gay?",
-        "Support Pride?"
+        "Support Pride?",
+        "This is so cool!"
       ],
       "responses": [
         "I'm sorry, but I don't have information about that. I'm an AI assistant focused on Nexxus Lab's services. Is there anything specific about our services, quoting process, project initiation, or SEO offerings that I can help you with?"
