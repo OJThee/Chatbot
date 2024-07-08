@@ -540,7 +540,8 @@
         "I'm looking for an internship opportunity.",
         "Do you have an OJT program?",
         "Could you elaborate on the details of your internship?",
-        "How can I get the internship"
+        "How can I get the internship?",
+        "Oh I see, is there any on the job training in your company?"
       ],
       "responses": [
         "Yes, Nexxus Lab offers internships, kindly send us an email to team@nexxuslab.com with your CV and endorsement letter from your school if you are interested."
@@ -592,7 +593,10 @@
         "Do I have to sign an NDA form?",
         "Do I have to sign a Non-Disclosure Agreement?",
         "How do I apply for an OJT?",
-        "What are the requirements?"
+        "What are the requirements?",
+        "Hello, how can I take my internship in your company?",
+        "How can I take my internship in your company?"
+
       ],
       "responses": [
         "Nexxus Labs requires aspiring interns to submit their CV and endorsement letter from their university. Keep in mind that this is a non-paid internship and we will require you to sign a Non-Disclosure Agreement when you're accepted."
@@ -728,6 +732,7 @@
         "I'm sorry, but I don't have information about that. I'm an AI assistant focused on Nexxus Lab's services. Is there anything specific about our services, quoting process, project initiation, or SEO offerings that I can help you with?"
       ]
     }
+
   ]
 }
 
