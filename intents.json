@@ -731,8 +731,30 @@
       "responses": [
         "I'm sorry, but I don't have information about that. I'm an AI assistant focused on Nexxus Lab's services. Is there anything specific about our services, quoting process, project initiation, or SEO offerings that I can help you with?"
       ]
+    },
+    {
+      "tag": "Appointment",
+      "patterns": [
+        "Book appointment",
+        "Book me an appointment",
+        "Help me book an appointment",
+        "I need an appointment",
+        "How do I book an appointment with your company?",
+        "How do I book an appointment with Nexxus Lab?",
+        "Where can I book an appointment?",
+        "I want to book an appointment.",
+        "Can you help me book an appointment?",
+        "Appointment.",
+        "Do you book appointments?",
+        "Do you provide appointments?",
+        "Do you offer appointments?",
+        "Tell me how to book an appointment.",
+        "Can you book me an appointment?"
+      ],
+      "response" : [
+        "To book an appointment, refer to the bottom section of the website and fill up the form."
+      ]
     }
-
   ]
 }
 
