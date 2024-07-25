@@ -750,7 +750,22 @@
         "Do you provide appointments?",
         "Do you offer appointments?",
         "Tell me how to book an appointment.",
-        "Can you book me an appointment?"
+        "Can you book me an appointment?",
+        "Schedule an appointment.",
+        "Can I schedule an appointment?",
+        "Help me schedule an appointment.",
+        "I need to schedule an appointment.",
+        "How can I schedule an appointment with your company?",
+        "How do I schedule an appointment with Nexxus Lab?",
+        "Where can I schedule an appointment?",
+        "I want to schedule an appointment.",
+        "Can you help me schedule an appointment?",
+        "Schedule a meeting.",
+        "Book a meeting for me.",
+        "Tell me how to book a meeting.",
+        "Do you offer meeting appointments?",
+        "How can I book a meeting with your company?",
+        "How do I book a meeting with Nexxus Lab?"   
       ],
       "response" : [
         "To book an appointment, refer to the bottom section of the website and fill up the form."
